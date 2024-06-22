@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "20.14.2"
+  },
+  "engines": {
+    "node": "20.14.0",
+    "pnpm": "9.4.0"
+  },
+  "exports": null,
+  "packageManager": "pnpm@9.4.0",
+  "private": true,
+  "type": "module"
+}
